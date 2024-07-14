@@ -3,7 +3,7 @@ TASK 2 : STOPWATCH WEB APPLICATION
 
 THEME : Stop Watch
 
-WEBSITE: https://shubhangsudhansu.github.io/PRASUNET_WD_02/
+WEBSITE:  https://shubhangsudhansu.github.io/Prasunet_WD_02/
 
 DESCRIPTION:-
 
